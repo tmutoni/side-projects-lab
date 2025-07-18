@@ -39,7 +39,7 @@ df_risk = load_risk_data(DATA_FILE_PATH)
 
 st.set_page_config(layout="wide", page_title="Risk Dashboard App")
 
-st.title("📊 Risk Dashboard App")
+st.title("Risk Dashboard App")
 
 st.markdown("""
 This dashboard provides insights into credit risk data.
